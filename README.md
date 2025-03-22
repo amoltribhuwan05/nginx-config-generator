@@ -23,7 +23,7 @@ A user-friendly tool built with **Next.js** for automatically generating Nginx c
 
 ### Prerequisites
 
-- **Node.js** (v12 or higher)
+- **Node.js** (v20 or higher)
 - **npm** or **yarn** (for managing dependencies)
 
 ### Steps to Install
@@ -31,7 +31,7 @@ A user-friendly tool built with **Next.js** for automatically generating Nginx c
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/nginx-config-generator.git
+   git clone https://github.com/amoltribhuwan05/nginx-config-generator.git
    cd nginx-config-generator
    ```
 
