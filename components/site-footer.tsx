@@ -18,7 +18,7 @@ export function SiteFooter({
           Built with <span className="font-semibold">Next.js</span> and <span className="font-semibold">shadcn/ui</span>.
           The source code is available on{" "}
           <Link
-            href="https://github.com/amoltribhuwan05/nginx-config-generator"
+            href="https://github.com/amoltribhuwan05/nginx-config-generator/releases"
             target="_blank"
             rel="noreferrer"
             className="font-semibold underline underline-offset-4"

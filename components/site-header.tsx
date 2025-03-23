@@ -17,7 +17,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-2">
           <ModeToggle />
           <Button variant="default" size="sm" asChild>
-            <Link href="https://github.com/amoltribhuwan05/nginx-config-generator" target="_blank">
+            <Link href="https://github.com/amoltribhuwan05/nginx-config-generator/releases" target="_blank">
               GitHub
             </Link>
           </Button>
